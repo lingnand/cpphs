@@ -1,7 +1,7 @@
 Name: cpphs
 Version: 1.20.8
 Copyright: 2004-2017, Malcolm Wallace
-License: LGPL
+License: MIT
 License-File: LICENCE-LGPL
 Cabal-Version: >= 1.6
 Author: Malcolm Wallace <Malcolm.Wallace@me.com>
